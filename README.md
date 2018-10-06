@@ -1,3 +1,3 @@
-`./main.js auth | dot -Tpng -x -o graph.png && eog graph.png`
+`./main.js auth | dot -Tpng -x -o graph.png && xdg-open graph.png`
 
 ![](demo.png)
